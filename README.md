@@ -4,10 +4,10 @@
 
 ## ILLIA
 
-###LESSON2
+## LESSON2
 
-####Varya
+## Varya
 
-###Danil
+## Danil
 
-###CASPER
+### CASPER
